@@ -2,3 +2,4 @@ gitの練習をします！
 三回目
 yon
 status
+git diff
